@@ -1,5 +1,11 @@
 # RareSkills Gas Puzzles 
 
+## Puzzles I solved:
+
+- [x] Array Sum
+- [x] Require
+- [ ] Distribute
+
 ## Puzzles that are ready for you
 - [x] Distribute (hard)
 - [x] Array Sum (easy)
